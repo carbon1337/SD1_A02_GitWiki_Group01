@@ -12,7 +12,7 @@ nav_order: 1
 Version control is a system used to track changes made to files over time. In software development, it helps developers manage different versions of a project, work together, recover older versions, and safely test new features.
 <br>
 ## Pros of Version Control
-<br>
+<br>  
 - Tracks changes made to a project
 - Makes it easy to restore older versions
 - Helps multiple developers work on the same project
@@ -21,7 +21,7 @@ Version control is a system used to track changes made to files over time. In so
 - Helps identify when bugs were introduced  
 
 ## Types of Version Control  
-<br>
+<br>  
 ### Local Version Control  
 
 Stores different versions of files on one computer. It is simple, but not ideal for team projects.  
