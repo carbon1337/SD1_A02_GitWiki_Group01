@@ -12,17 +12,49 @@ nav_order: 1
 
 
 
-### Overview
+## Overview
 
+Version control is a system used to track changes made to files over time. In software development, it helps developers manage different versions of a project, work together, recover older versions, and safely test new features.
 
+## Pros of Version Control
 
-Version control is a system used in software development to track and manage changes made to files over time. It allows developers to record different versions of a project, review previous changes, collaborate with other developers, and restore earlier versions when necessary.
+- Tracks changes made to a project
+- Makes it easy to restore older versions
+- Helps multiple developers work on the same project
+- Reduces the risk of overwriting other people's work
+- Makes testing new features safer
+- Helps identify when bugs were introduced
 
+## Types of Version Control
 
+### Local Version Control
 
-Version control is especially important in software projects because source code is constantly being modified. Without a version control system, developers would have to manually create copies of files or folders whenever they wanted to preserve an older version. This can quickly become difficult to organize, particularly when several people are working on the same project.
+Stores different versions of files on one computer. It is simple, but not ideal for team projects.
 
+### Centralized Version Control
 
+Stores the main project on a central server. Developers connect to the server to access and update files.
 
-One of the most widely used version control systems is Git. Git is commonly used alongside hosting services such as GitHub, GitLab, and Bitbucket.
+Examples include:
 
+- SVN
+- CVS
+
+### Distributed Version Control
+
+Each developer has a full copy of the project and its history. Developers can work independently and then sync their changes.
+
+Examples include:
+
+- Git
+- Mercurial
+
+## Brief History
+
+Early developers often saved multiple copies of files manually to keep older versions.
+
+As software projects became larger, version control systems such as SCCS and CVS were created to track changes more reliably.
+
+Centralized systems such as SVN later became common for team development.
+
+Git was created in 2005 and helped popularize distributed version control. It is now one of the most widely used version control systems in software development.
