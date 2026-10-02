@@ -5,43 +5,43 @@
 
 ## To-do
 
-What is Git (including pros and cons). 
-The Git Life Cycle. 
-Configuring Git 
-Initializing a Repo 
-Staging and Commit Files 
-Status, Log, and Diff 
-Using a Git Ignore File 
-Undoing in Git with: 
-Checkout 
-Reset 
-Revert 
-Clean 
-When to use the different strategies. 
-Resolving Merge Conflict 
-Stashing 
-Tags 
-Adding / Configuring a GitHub Remote 
-Pushing and Pulling 
-The How and Why of Team Git Workflow 
-Centralized Workflow 
-Feature Branch Workflow 
-Forking Workflow 
-Other Interesting/Useful Git Topics
+- What is Git (including pros and cons). 
+- The Git Life Cycle. 
+- Undoing in Git with: 
+- Checkout 
+- Reset 
+- Revert 
+- Clean 
+- When to use the different strategies. 
+- Resolving Merge Conflict 
+- Stashing 
+- Tags 
+- The How and Why of Team Git Workflow 
+- Centralized Workflow 
+- Feature Branch Workflow 
+- Forking Workflow 
+- Other Interesting/Useful Git Topics
 
 ## Doing
 Riley - The role of version control in software development.
 
 Nova - Git Fundamentals
+- Configuring Git 
+- Initializing a Repo 
+- Staging and Commit Files 
+- Status, Log, and Diff 
+- Using a Git Ignore File 
 
 Gus - Creating, Using, and Merging Branches
 
 Alex - ???
 
 Traigen - Remote Repositories
+- Adding / Configuring a GitHub Remote 
+- Pushing and Pulling 
 
 ## Done
-
+N/A
 ---
 This is a *bare-minimum* template to create a documentation website that:
 
