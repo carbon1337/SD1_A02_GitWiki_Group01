@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-#Git Wiki
+# Git Wiki
 ##### Group 01 | Riley, Gus, Nova, Traigen, ALex
 
 Start by following the instructions in the [README] and then [browse the Just the Docs documentation][Just the Docs] to learn more about how to use this theme.
