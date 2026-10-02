@@ -5,8 +5,7 @@
 
 ## To-do
 
-- What is Git (including pros and cons). 
-- The Git Life Cycle. 
+
 - Undoing in Git with: 
 - Checkout 
 - Reset 
@@ -23,20 +22,26 @@
 - Other Interesting/Useful Git Topics
 
 ## Doing
-Riley - The role of version control in software development.
+Riley 
+- The role of version control in software development.
+- What is Git (including pros and cons). 
+- The Git Life Cycle. 
 
-Nova - Git Fundamentals
+Nova 
+- Git Fundamentals
 - Configuring Git 
 - Initializing a Repo 
 - Staging and Commit Files 
 - Status, Log, and Diff 
 - Using a Git Ignore File 
 
-Gus - Creating, Using, and Merging Branches
+Gus 
+- Creating, Using, and Merging Branches
 
 Alex - ???
 
-Traigen - Remote Repositories
+Traigen 
+- Remote Repositories
 - Adding / Configuring a GitHub Remote 
 - Pushing and Pulling 
 
