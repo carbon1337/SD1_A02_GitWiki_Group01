@@ -4,7 +4,6 @@
 # Task list:
 
 ## To-do
-    The role of version control in software development. 
 
 What is Git (including pros and cons). 
 The Git Life Cycle. 
