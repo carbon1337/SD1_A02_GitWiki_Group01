@@ -12,7 +12,7 @@ nav_order: 1
 
 
 
-## Overview
+## Overview  
 
 Version control is a system used to track changes made to files over time. In software development, it helps developers manage different versions of a project, work together, recover older versions, and safely test new features.
 
@@ -23,13 +23,13 @@ Version control is a system used to track changes made to files over time. In so
 - Helps multiple developers work on the same project
 - Reduces the risk of overwriting other people's work
 - Makes testing new features safer
-- Helps identify when bugs were introduced
+- Helps identify when bugs were introduced  
 
-## Types of Version Control
+## Types of Version Control  
 
-### Local Version Control
+### Local Version Control  
 
-Stores different versions of files on one computer. It is simple, but not ideal for team projects.
+Stores different versions of files on one computer. It is simple, but not ideal for team projects.  
 
 ### Centralized Version Control
 
@@ -40,7 +40,7 @@ Examples include:
 - SVN
 - CVS
 
-### Distributed Version Control
+### Distributed Version Control  
 
 Each developer has a full copy of the project and its history. Developers can work independently and then sync their changes.
 
@@ -49,7 +49,7 @@ Examples include:
 - Git
 - Mercurial
 
-## Brief History
+## Brief History  
 
 Early developers often saved multiple copies of files manually to keep older versions.
 
