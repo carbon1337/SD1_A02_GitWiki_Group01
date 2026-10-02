@@ -1,22 +1,18 @@
-\---
-
+---
+title: Remote Repositories
 layout: default
-
-title: The Role of Version Control in Software Development
-
-nav\_order: 2
-
-\---
+nav_order: 8
+---
 
 
 
 
 
-\# The Role of Version Control in Software Development
+# The Role of Version Control in Software Development
 
 
 
-\### Overview
+### Overview
 
 
 
