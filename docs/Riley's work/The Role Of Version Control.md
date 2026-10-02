@@ -29,7 +29,8 @@ Stores the main project on a central server. Developers connect to the server to
 Examples include:
 
 - SVN
-- CVS
+- CVS  
+
 ### Distributed Version Control  
 
 Each developer has a full copy of the project and its history. Developers can work independently and then sync their changes.
@@ -38,6 +39,7 @@ Examples include:
 
 - Git
 - Mercurial
+
 ## Brief History  
 
 Early developers often saved multiple copies of files manually to keep older versions.
