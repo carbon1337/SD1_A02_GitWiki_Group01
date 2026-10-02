@@ -1,3 +1,17 @@
+\---
+
+layout: default
+
+title: The Role of Version Control in Software Development
+
+nav\_order: 2
+
+\---
+
+
+
+
+
 \# The Role of Version Control in Software Development
 
 
