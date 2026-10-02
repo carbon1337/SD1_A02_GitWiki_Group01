@@ -1,6 +1,3 @@
-# just-the-docs-template
-
-
 # Task list:
 
 ## To-do
