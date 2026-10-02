@@ -1,5 +1,49 @@
 # just-the-docs-template
 
+
+# Task list:
+
+## To-do
+    The role of version control in software development. 
+
+What is Git (including pros and cons). 
+The Git Life Cycle. 
+Configuring Git 
+Initializing a Repo 
+Staging and Commit Files 
+Status, Log, and Diff 
+Using a Git Ignore File 
+Undoing in Git with: 
+Checkout 
+Reset 
+Revert 
+Clean 
+When to use the different strategies. 
+Resolving Merge Conflict 
+Stashing 
+Tags 
+Adding / Configuring a GitHub Remote 
+Pushing and Pulling 
+The How and Why of Team Git Workflow 
+Centralized Workflow 
+Feature Branch Workflow 
+Forking Workflow 
+Other Interesting/Useful Git Topics
+
+## Doing
+Riley - The role of version control in software development.
+
+Nova - Git Fundamentals
+
+Gus - Creating, Using, and Merging Branches
+
+Alex - ???
+
+Traigen - Remote Repositories
+
+## Done
+
+---
 This is a *bare-minimum* template to create a documentation website that:
 
 - Use the static-site generator [Jekyll];
