@@ -14,4 +14,4 @@ create the remote repository if you haven't already
 copy the URL
 and add it to your local through a command "git remote add"
 
-in order to check if it worked, a good way to check is "git remote -v"
+in order to check if it worked, a good way to check is "git remote -v" From that command you should see your Github URL listed
