@@ -34,7 +34,12 @@ Nova
 Gus 
 - Creating, Using, and Merging Branches
 
-Alex - ???
+Alex - 
+- Undoing in Git with: 
+- Checkout 
+- Reset 
+- Revert 
+- Clean 
 
 Traigen 
 - Remote Repositories
