@@ -2,6 +2,8 @@
 
 ##A comprehensive Git Tutorial
 
+##How to Use Branches
+
 When using branches in Git, think of branches almost like creating an alternite timeline that spreads off of your main. Where within your branch you can make whatever changes you want and alter anything wtihout it actually effecting main.
 Another way to think of it is like saving a game. Where as commiting changes is like saving your game to the same file, creating a branch is like saving to a new file completley. You still keep your old file, but now you have a new one as well to do whatever you want in.
 However, the main branch holds more precedent over its branching paths. As your "main" should essentially be the most complete and compiled version of your project. It is essentially the main version of your product.
@@ -22,6 +24,7 @@ Then, in order to switch to your desired branch:
 git checkout <branch-name> 
 
 ```
+##Merging
 
 However, one important thing that you can do when working with branches is called merging. 
 
