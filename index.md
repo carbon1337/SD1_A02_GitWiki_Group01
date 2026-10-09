@@ -158,3 +158,13 @@ to this section through a separate feature branch and pull request.
 
 Add biographies below this comment.
 -->
+
+### Riley Clarke
+
+Hi! My name is Riley, and I'm a Game Development – Programming student at RRC Polytech. I've been programming games in Unity with C# for just over five years, contributing to both 2D and 3D projects. I have a passion for programming, game design, and creating memorable and impactful experiences.
+
+Outside of game development, I enjoy rock climbing, music of many genres, JDM cars, and, of course, playing video games!
+
+My long-term goal is to establish my own game development studio, where I can create games that others will love and enjoy while providing employment opportunities for other passionate creatives.
+
+
