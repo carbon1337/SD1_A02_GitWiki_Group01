@@ -2,12 +2,6 @@
 
 ## To-do
 
-
-- Undoing in Git with: 
-- Checkout 
-- Reset 
-- Revert 
-- Clean 
 - When to use the different strategies. 
 - Resolving Merge Conflict 
 - Stashing 
