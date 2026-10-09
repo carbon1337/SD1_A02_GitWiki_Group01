@@ -1,10 +1,7 @@
 # Task list:
 
 ## To-do
-- The How and Why of Team Git Workflow 
-  - Centralized Workflow 
-  - Feature Branch Workflow
-  - Forking workflow
+
 
 ## Doing
 Riley 
@@ -19,7 +16,10 @@ Nova
   - Using a Git Ignore File 
 
 Gus 
-
+- The How and Why of Team Git Workflow 
+  - Centralized Workflow 
+  - Feature Branch Workflow
+  - Forking workflow
 
 Alex - 
 - Undoing in Git with: 
