@@ -9,6 +9,9 @@ nav_order: 8
 
 A repository is a place where you store and manage your project's files, including its code and documentation. There are many reasons to create a repository. For example, if you are making a website and need to collaborate with other programmers, creating a remote repository makes it much easier to work together. A remote repository is a version of your project stored on a server or cloud platform, such as GitHub. It allows multiple programmers to access the same project without having to manually send files back and forth.
 
+- TOC
+{:toc}
+
 
 ## Version Control
 
@@ -44,7 +47,4 @@ The following commands are useful when creating and working with repositories.
 - `git commit -m "Your message"` — Saves staged changes as a commit.
 - `git push` — Uploads committed changes to a remote repository.
 - `git pull` — Downloads and integrates changes from a remote repository.
-
-1. TOC
-{:toc}
 
