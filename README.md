@@ -15,7 +15,6 @@
 ## Doing
 Riley 
 - What is Git (including pros and cons). 
-- The Git Life Cycle. 
 
 Nova 
 - Git Fundamentals
@@ -42,6 +41,7 @@ Traigen
 
 ## Done
 - The role of version control in software development.
+- The Git Life Cycle. 
 ---
 This is a *bare-minimum* template to create a documentation website that:
 
