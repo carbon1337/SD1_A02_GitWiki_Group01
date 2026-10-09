@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Overview
 
-Version control is a system used to track changes made to files over time. In software development, it helps developers manage different versions of a project, work together, recover older versions, and safely test new features.
+Version control is a system used to track changes made to files over time. In software development, it helps developers manage different versions of a project, collaborate together, recover older versions, and safely test new features.
 
 ## Table of Contents
 {: .no_toc }
@@ -75,15 +75,19 @@ This displays a shortened history of commits, including their identifiers and me
 
 This can help developers identify when a particular feature was added or a bug was introduced.
 
+In game development, being able to see a log of commits helps dramatically with bug fixing, as teams can work backwards to find possible sources of any particular issue that arises.
+
 ## Brief History
 
 Early developers often saved multiple copies of files manually to keep older versions.
+
+I remember back in High School when my team didn't know how to use version control, where we all used flash drives to merge and keep track of these versions.
 
 As software projects became larger, version control systems such as SCCS and CVS were created to track changes more reliably.
 
 Centralized systems such as SVN later became common for team development.
 
-Git was created in 2005 and helped popularize distributed version control. It is now one of the most widely used version control systems in software development.
+Git was created in 2005 and helped popularize distributed version control. It is now one of the most widely used version control systems in software AND game development.
 
 ## Additional Resources
 
