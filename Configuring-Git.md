@@ -4,7 +4,7 @@ layout: default
 nav_order: 9
 ---
 
-#Configuring Github Remote
+# Configuring Github Remote
 
 How does one add a github remote?
 in order to tell your local repository where the remote repository is you must:
