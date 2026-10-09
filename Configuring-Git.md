@@ -32,6 +32,10 @@ Follow these steps:
 4. Create the repository.
 5. Copy the repository URL from GitHub.
 
+https://github.com/username/repository-name.git
+
+remember to replace the username and repository name with your git username and the name of your repository.
+
 ## Connecting Your Local Repository
 
 Once you have copied the repository URL, you can connect it to your local repository.
