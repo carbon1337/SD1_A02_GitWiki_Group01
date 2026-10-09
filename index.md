@@ -6,6 +6,7 @@ permalink: /
 ---
 
 # Git & GitHub Documentation Wiki
+## Group 01 - Riley, Alex, Nova, Traigen, and Gus!
 
 Welcome to our Git & GitHub documentation wiki!
 
