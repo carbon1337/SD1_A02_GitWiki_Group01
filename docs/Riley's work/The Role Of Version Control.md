@@ -1,3 +1,4 @@
+
 ---
 title: The Role of Version Control in Software Development
 layout: default
@@ -9,7 +10,11 @@ nav_order: 2
 
 ## Overview
 
-Version control is a system used to track changes made to files over time. In software development, it helps developers manage different versions of a project, collaborate together, recover older versions, and safely test new features.
+Version control, also known as revision control or source control, is the management of changes to documents such as computer programs.
+
+In software development, it helps developers manage different versions of a project, collaborate with others, recover older versions, and safely test new features.
+
+Unlike simply using `Ctrl + Z`, version control allows developers to undo changes made weeks ago, restore older versions of files, and manage changes made by other team members.
 
 ## Table of Contents
 {: .no_toc }
@@ -19,12 +24,17 @@ Version control is a system used to track changes made to files over time. In so
 
 ## Pros of Version Control
 
-- Tracks changes made to a project
-- Makes it easy to restore older versions
-- Helps multiple developers work on the same project
-- Reduces the risk of overwriting other people's work
-- Makes testing new features safer
-- Helps identify when bugs were introduced
+Version control provides developers with much more than just the ability to undo changes.
+
+- Tracks changes made to a project over time.
+- Makes it easy to restore older versions of files.
+- Allows developers to work on new features while fixing bugs in older versions.
+- Helps multiple developers collaborate without overwriting each other's work.
+- Allows distributed teams to work together on projects from anywhere in the world.
+- Makes testing new features safer.
+- Helps identify when bugs were introduced.
+
+Version control is useful for both individual developers and teams, providing a safety net throughout the development process.
 
 ## Types of Version Control
 
@@ -38,17 +48,19 @@ Stores the main project on a central server. Developers connect to the server to
 
 Examples include:
 
-- SVN
+- Perforce Helix Core
+- Subversion (SVN)
 - CVS
 
 ### Distributed Version Control
 
-Each developer has a full copy of the project and its history. Developers can work independently and then sync their changes.
+Each developer has a full copy of the project and its history. Developers can work independently and then synchronize their changes.
 
 Examples include:
 
 - Git
 - Mercurial
+- Unity Version Control (formerly Plastic SCM)
 
 ## Version Control in Game Development
 
@@ -60,6 +72,13 @@ For example, in a Unity project:
 - Artists can manage changes to textures, models, and other assets.
 - Team members can work on different features without directly overwriting each other's work.
 - Developers can restore earlier versions if a new feature introduces problems.
+
+Different version control systems are commonly used in game development:
+
+- **Git:** A free, open-source distributed version control system, commonly used in software development and smaller game projects.
+- **Unity Version Control:** A version control solution designed for game development teams, including programmers and artists.
+- **Perforce Helix Core:** A centralized version control system widely used by larger game development studios.
+- **Subversion (SVN):** A centralized version control system that can be used by smaller development teams.
 
 ### Practical Example
 
@@ -75,19 +94,23 @@ This displays a shortened history of commits, including their identifiers and me
 
 This can help developers identify when a particular feature was added or a bug was introduced.
 
-In game development, being able to see a log of commits helps dramatically with bug fixing, as teams can work backwards to find possible sources of any particular issue that arises.
+In game development, being able to see a log of commits helps dramatically with bug fixing, as teams can work backwards to find possible sources of an issue.
 
 ## Brief History
 
 Early developers often saved multiple copies of files manually to keep older versions.
 
-I remember back in High School when my team didn't know how to use version control, where we all used flash drives to merge and keep track of these versions.
+I remember back in high school when my team didn't know how to use version control. We used flash drives to share, merge, and keep track of different versions of our projects.
 
 As software projects became larger, version control systems such as SCCS and CVS were created to track changes more reliably.
 
 Centralized systems such as SVN later became common for team development.
 
-Git was created in 2005 and helped popularize distributed version control. It is now one of the most widely used version control systems in software AND game development.
+Git was created by Linus Torvalds, the creator of Linux, in April 2005 after the version control system BitKeeper stopped providing free licenses for Linux development.
+
+By June 2005, Git was already being used to manage development of the Linux kernel.
+
+Today, Git is one of the most widely used version control systems in software development and is also used in game development.
 
 ## Additional Resources
 
