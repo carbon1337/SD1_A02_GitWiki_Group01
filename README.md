@@ -16,10 +16,6 @@ Nova
   - Using a Git Ignore File 
 
 Gus 
-- The How and Why of Team Git Workflow 
-  - Centralized Workflow 
-  - Feature Branch Workflow
-  - Forking workflow
 
 Alex - 
 - Undoing in Git with: 
@@ -42,6 +38,11 @@ Traigen
 - Stashing
 - Tags
 - Resolving Merge Conflict
+- The How and Why of Team Git Workflow 
+- Centralized Workflow
+- Feature Branch Workflow
+- Forking workflow
+
   
 ---
 This is a *bare-minimum* template to create a documentation website that:
