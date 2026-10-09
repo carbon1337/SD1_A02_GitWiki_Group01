@@ -1,10 +1,6 @@
 # Task list:
 
 ## To-do
-
-
-
-
 - The How and Why of Team Git Workflow 
 - Centralized Workflow 
 - Feature Branch Workflow 
@@ -13,8 +9,6 @@
 ## Doing
 Riley 
 - Resolving Merge Conflict
-- Stashing 
-- Tags
   
 Nova 
 - Git Fundamentals
@@ -48,7 +42,6 @@ Traigen
 - Creating, Using, and Merging Branches
 - Stashing
 - Tags
-- 
 ---
 This is a *bare-minimum* template to create a documentation website that:
 
