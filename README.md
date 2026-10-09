@@ -8,7 +8,6 @@
 - The How and Why of Team Git Workflow 
 - Centralized Workflow 
 - Feature Branch Workflow 
-- Forking Workflow 
 - Other Interesting/Useful Git Topics
 
 ## Doing
@@ -26,7 +25,8 @@ Nova
 - Using a Git Ignore File 
 
 Gus 
-- Creating, Using, and Merging Branches
+- Forking Workflow
+
 
 Alex - 
 - Undoing in Git with: 
@@ -44,7 +44,10 @@ Traigen
 ## Done
 - The role of version control in software development.
 - The Git Life Cycle.
-- What is Git (including pros and cons). 
+- What is Git (including pros and cons).
+- Creating, Using, and Merging Branches
+- Stashing
+- Tags
 - 
 ---
 This is a *bare-minimum* template to create a documentation website that:
