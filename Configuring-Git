@@ -1,9 +1,7 @@
 ---
-
 title: Configuring A Github Remote
 layout: default
 nav_order: 9
-
 ---
 
 #Configuring Github Remote
