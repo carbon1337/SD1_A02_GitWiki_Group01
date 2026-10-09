@@ -2,10 +2,9 @@
 
 ## To-do
 
-- When to use the different strategies. 
-- Resolving Merge Conflict 
-- Stashing 
-- Tags 
+
+
+
 - The How and Why of Team Git Workflow 
 - Centralized Workflow 
 - Feature Branch Workflow 
@@ -14,8 +13,10 @@
 
 ## Doing
 Riley 
-- What is Git (including pros and cons). 
-
+- Resolving Merge Conflict
+- Stashing 
+- Tags
+  
 Nova 
 - Git Fundamentals
 - Configuring Git 
@@ -33,7 +34,8 @@ Alex -
 - Reset 
 - Revert 
 - Clean 
-
+- When to use the different strategies.
+  
 Traigen 
 - Remote Repositories
 - Adding / Configuring a GitHub Remote 
@@ -41,7 +43,9 @@ Traigen
 
 ## Done
 - The role of version control in software development.
-- The Git Life Cycle. 
+- The Git Life Cycle.
+- What is Git (including pros and cons). 
+- 
 ---
 This is a *bare-minimum* template to create a documentation website that:
 
