@@ -12,22 +12,22 @@ Riley
   
 Nova 
 - Git Fundamentals
-- Configuring Git 
-- Initializing a Repo 
-- Staging and Commit Files 
-- Status, Log, and Diff 
-- Using a Git Ignore File 
+  - Configuring Git 
+  - Initializing a Repo 
+  - Staging and Commit Files 
+  - Status, Log, and Diff 
+  - Using a Git Ignore File 
 
 Gus 
 
 
 Alex - 
 - Undoing in Git with: 
-- Checkout 
-- Reset 
-- Revert 
-- Clean 
-- When to use the different strategies.
+  - Checkout 
+  - Reset 
+  - Revert 
+  - Clean 
+  - When to use the different strategies.
   
 Traigen 
 - Remote Repositories
