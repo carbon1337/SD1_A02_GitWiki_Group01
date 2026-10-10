@@ -130,3 +130,40 @@ git revert D
 ## After Revert: HEAD at E
 `main --> A --> B --> C --> D --/ E`
 E (Undoes Changes Made in D)
+
+
+## Reverting Multiple Commits
+
+The `git revert` command reverts a single commit by default.
+
+We can run it mutiple times to revert multiple commits:
+```bash
+git revert D
+git revert C
+```
+Or we can revert a sequence of commits:
+(Each commit is reverted separately!)
+```bash
+git revert C^..D
+```
+If you only want a single revert commit:
+(The -n stands for "no commit".)
+```bash
+git revert -n C^..D
+git commit -m "Revert commits C through D inclusively."
+```
+
+## Undo: A Decision Tree
+
+```mermaid
+graph LR
+    A[So You Want To Undo] --> B{Changes Committed?}
+    B -- NO --> C[Use git checkout, carefully]
+    B -- YES --> D{Changes Pushed?}
+    D -- YES --> E[Use git revert]
+    D -- NO --> F{Live Dangerously?}
+    F -- NO --> E
+    F -- YES --> G[Use git reset]
+```
+
+NOTE: The `git clean` command can also be handy when you want to discard all files that are not under version control.
