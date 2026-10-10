@@ -47,8 +47,8 @@ git checkout .
 WARNING: Slightly dangerous. The discarded changes cannot be recovered!
 
 ## When to Undo with Reset?
-
 Use 'git reset' to undo one or more commits in our local repository.
+
 WARNING
 : Dangerous. The rewrites history by changing the HEAD pointer.
 
@@ -58,3 +58,30 @@ Hard Reset (Dangerous)
 Soft Reset (Weird)
 
 Aswell as a mixed reset.
+
+## Hard Reset
+Hard reset: Changes your working directory to match a specific commit.
+
+```bash
+git reset --hard [commit id]
+```
+WARNING: Uncommitted changes lost. All files are reset to the specified commit!
+
+## Soft Reset 
+Soft reset: Keeps your changes in the working directory, but still resets the HEAD.
+
+```bash
+git reset --soft [commit id]
+```
+WEIRD: HEAD and your working directory may differ if you had uncommited changes. 
+
+## Mixed Reset
+Mixed reset: Moves HEAD back and unstages the changes, but keeps them in the working directory.
+
+```bash
+git reset [commit id]
+```
+
+NOTE: This is the default mode, so `--mixed` is optional. The undone commits' changes show up as dirty files, ready to be edited, re-staged with `git add`, and recommitted.
+
+WARNING: Don't reset commits you've already pushed. It rewrites history. Use `git revert` instead.
