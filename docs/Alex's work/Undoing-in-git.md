@@ -34,7 +34,7 @@ Works if:
 - You wish to revert to the most recently committed version of a file or files.
 
 ## Undoing with Checkout
-Let's say you made a bunch of changes to your 'readme.md' that you now regret.
+Let's say you made a bunch of changes to your `readme.md` that you now regret.
 
 If you haven't committed these changes, you can undo them like this:
 ```bash
@@ -47,12 +47,12 @@ git checkout .
 WARNING: Slightly dangerous. The discarded changes cannot be recovered!
 
 ## When to Undo with Reset?
-Use 'git reset' to undo one or more commits in our local repository.
+Use `git reset` to undo one or more commits in our local repository.
 
 WARNING
 : Dangerous. The rewrites history by changing the HEAD pointer.
 
-A 'git reset' comes in two main flavors:
+A `git reset` comes in two main flavors:
 
 Hard Reset (Dangerous)
 Soft Reset (Weird)
@@ -85,3 +85,19 @@ git reset [commit id]
 NOTE: This is the default mode, so `--mixed` is optional. The undone commits' changes show up as dirty files, ready to be edited, re-staged with `git add`, and recommitted.
 
 WARNING: Don't reset commits you've already pushed. It rewrites history. Use `git revert` instead.
+
+## Before Reset: HEAD at D
+`main --> A --> B --> c --/ D`
+
+Let's say we want to undo the changes made in C and D:
+```bash
+git reset --hard B
+```
+## After Reset: Head at B 
+`main --> A --/ B`
+### No Commits Were Lost
+```bash
+git reset --hard D
+```
+###  Back to Where we Started
+`main --> A --> B --> c --/ D`
