@@ -101,3 +101,21 @@ git reset --hard D
 ```
 ###  Back to Where we Started
 `main --> A --> B --> c --/ D`
+
+## When to Use Revert?
+Use `git revert` to run a specific commit in reverse.
+
+Typically used to undo a commit that has been shared with others.
+The public undo - it says, 'I made a mistake, but I want to keep a record of it.'
+
+## Reverting Commits
+```bash
+git revert <commitid>
+```
+Creates a new commit that undoes changes from the specified commit.
+
+### The Safest Undo Choice!
+
+Reverting maintains history, making it a safe choice for:
+- Undoing local commits.
+- Undoing commits pushed to a remote repo.
