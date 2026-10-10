@@ -119,3 +119,14 @@ Creates a new commit that undoes changes from the specified commit.
 Reverting maintains history, making it a safe choice for:
 - Undoing local commits.
 - Undoing commits pushed to a remote repo.
+
+## Before Revert: HEAD at D
+`main --> A --> B --> C --/ D`
+
+If we wish to revert the changes made in D:
+```bash
+git revert D
+```
+## After Revert: HEAD at E
+`main --> A --> B --> C --> D --/ E`
+E (Undoes Changes Made in D)
