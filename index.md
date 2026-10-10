@@ -151,10 +151,19 @@ GitHub provides features such as pull requests, code reviews, and remote reposit
 - [Perforce - Helix Core](https://www.perforce.com/products/helix-core)
 
 ## Team Member Biographies
-
 <!--
 Each team member must add their own short paragraph biography
 to this section through a separate feature branch and pull request.
 
 Add biographies below this comment.
 -->
+
+### Traigen Skoropata
+
+Intergalactic salutations! My name is Traigen, and I am a Game Development – Programming student at RRC Polytech. Outside of school, I also work as a line cook at Little Bones Wings.
+
+I've been programming in Unity using C# and Python since Grade 10, giving me around four years of experience. I've worked on several solo game projects, taking on both programming and art responsibilities due to me not really working with anyone else. Although I took a break from programming after high school, I'm now continuing to develop my skills. Above all, I love storytelling and narrative in video games.
+
+Outside of game development, I'm passionate about soccer (or football, if you're European), cooking (despite still having plenty to learn and sucking at it), Warhammer 40K/fantasy.
+
+My long-term goal is to create a fantasy game with a powerful, tear-jerking story and memorable characters. I want players to feel as though they've formed genuine friendships with the characters they meet throughout their journey. Ultimately, I hope to create a game that leaves a lasting emotional impact on the people who play it.
