@@ -11,7 +11,7 @@ nav_order: 15
 
 With git, ALMOST anything can be undone.
 
-There are 3 normal was to undo in git.
+There are 3 normal ways to undo in git.
 - Checkout (Slightly Dangerous)
 - Reset (Destructiive)
 - Revert (Safe)
@@ -45,3 +45,16 @@ If you want to revert all folders and files to the most recent commit:
 git checkout .
 ```
 WARNING: Slightly dangerous. The discarded changes cannot be recovered!
+
+## When to Undo with Reset?
+
+Use 'git reset' to undo one or more commits in our local repository.
+WARNING
+: Dangerous. The rewrites history by changing the HEAD pointer.
+
+A 'git reset' comes in two main flavors:
+
+Hard Reset (Dangerous)
+Soft Reset (Weird)
+
+Aswell as a mixed reset.
