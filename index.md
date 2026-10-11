@@ -158,7 +158,26 @@ to this section through a separate feature branch and pull request.
 
 Add biographies below this comment.
 -->
+### Riley Clarke
 
+Hi! My name is Riley, and I'm a Game Development – Programming student at RRC Polytech. I've been programming games in Unity with C# for just over five years, contributing to both 2D and 3D projects. I have a passion for programming, game design, and creating memorable and impactful experiences.
+
+Outside of game development, I enjoy rock climbing, music of many genres, JDM cars, and, of course, playing video games!
+
+My long-term goal is to establish my own game development studio, where I can create games that others will love and enjoy while providing employment opportunities for other passionate creatives.  
+  
+
+### Alex Poolie
+
+Hi, my name is Alex Poolie. I am in the programming side of the game development program at rrc. Ever since I was able to play video games I have known
+that I wanted to make them. I am primarally self taught, learning lua and autohotkey on my own. I have taken the first term of the AD&D program at rrc to learn python,
+and oop. I love creating, and making worlds for people to explore.
+
+I am also a self taught pianist, I love piano improvisation. Eventually my goal is to make music for games that I create.
+
+My dream is to buy the rights to a game on roblox called "Rogue lineage", and turn it into a real game.  
+  
+  
 ### Traigen Skoropata
 
 Intergalactic salutations! My name is Traigen, and I am a Game Development – Programming student at RRC Polytech. Outside of school, I also work as a line cook at Little Bones Wings.
@@ -168,14 +187,6 @@ I've been programming in Unity using C# and Python since Grade 10, giving me aro
 Outside of game development, I'm passionate about soccer (or football, if you're European), cooking (despite still having plenty to learn and sucking at it), Warhammer 40K/fantasy.
 
 My long-term goal is to create a fantasy game with a powerful, tear-jerking story and memorable characters. I want players to feel as though they've formed genuine friendships with the characters they meet throughout their journey. Ultimately, I hope to create a game that leaves a lasting emotional impact on the people who play it.  
-  
-### Riley Clarke
-
-Hi! My name is Riley, and I'm a Game Development – Programming student at RRC Polytech. I've been programming games in Unity with C# for just over five years, contributing to both 2D and 3D projects. I have a passion for programming, game design, and creating memorable and impactful experiences.
-
-Outside of game development, I enjoy rock climbing, music of many genres, JDM cars, and, of course, playing video games!
-
-My long-term goal is to establish my own game development studio, where I can create games that others will love and enjoy while providing employment opportunities for other passionate creatives.  
   
 
 ###Gus Klaverkamp
