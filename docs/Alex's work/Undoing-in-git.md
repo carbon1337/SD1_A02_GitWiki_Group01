@@ -86,14 +86,14 @@ NOTE: This is the default mode, so `--mixed` is optional. The undone commits' ch
 
 WARNING: Don't reset commits you've already pushed. It rewrites history. Use `git revert` instead.
 
-## Before Reset: HEAD at D
+### Before Reset: HEAD at D
 `main --> A --> B --> c --/ D`
 
 Let's say we want to undo the changes made in C and D:
 ```bash
 git reset --hard B
 ```
-## After Reset: Head at B 
+### After Reset: Head at B 
 `main --> A --/ B`
 ### No Commits Were Lost
 ```bash
@@ -120,14 +120,14 @@ Reverting maintains history, making it a safe choice for:
 - Undoing local commits.
 - Undoing commits pushed to a remote repo.
 
-## Before Revert: HEAD at D
+### Before Revert: HEAD at D
 `main --> A --> B --> C --/ D`
 
 If we wish to revert the changes made in D:
 ```bash
 git revert D
 ```
-## After Revert: HEAD at E
+### After Revert: HEAD at E
 `main --> A --> B --> C --> D --/ E`
 E (Undoes Changes Made in D)
 
@@ -155,15 +155,18 @@ git commit -m "Revert commits C through D inclusively."
 
 ## Undo: A Decision Tree
 
-```mermaid
-graph LR
-    A[So You Want To Undo] --> B{Changes Committed?}
-    B -- NO --> C[Use git checkout, carefully]
-    B -- YES --> D{Changes Pushed?}
-    D -- YES --> E[Use git revert]
-    D -- NO --> F{Live Dangerously?}
-    F -- NO --> E
-    F -- YES --> G[Use git reset]
-```
+`So You Want To Undo --> Changes Committed?`
+
+`Changes Committed? --NO--> Use git checkout, carefully`
+
+`Changes Committed? --YES--> Changes Pushed?`
+
+`Changes Pushed? --YES--> Use git revert`
+
+`Changes Pushed? --NO--> Live Dangerously?`
+
+`Live Dangerously? --NO--> Use git revert`
+
+`Live Dangerously? --YES--> Use git reset`
 
 NOTE: The `git clean` command can also be handy when you want to discard all files that are not under version control.
