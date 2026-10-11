@@ -158,3 +158,13 @@ to this section through a separate feature branch and pull request.
 
 Add biographies below this comment.
 -->
+
+### Alex Poolie
+
+Hi, my name is Alex Poolie. I am in the programming side of the game development program at rrc. Ever since I was able to play video games I have known
+that I wanted to make them. I am primarally self taught, learning lua and autohotkey on my own. I have taken the first term of the AD&D program at rrc to learn python,
+and oop. I love creating, and making worlds for people to explore.
+
+I am also a self taught pianist, I love piano improvisation. Eventually my goal is to make music for games that I create.
+
+My dream is to buy the rights to a game on roblox called "Rogue lineage", and turn it into a real game. 
