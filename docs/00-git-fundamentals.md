@@ -1,7 +1,8 @@
 ---
 title: Git Fundamentals
 has_children: true
-nav_order: 0
+layout: default
+nav_order: 2
 ---
 
 # Git Fundamentals
