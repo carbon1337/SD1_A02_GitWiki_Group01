@@ -166,4 +166,14 @@ I've been programming in Unity using C# and Python since Grade 10, giving me aro
 
 Outside of game development, I'm passionate about soccer (or football, if you're European), cooking (despite still having plenty to learn and sucking at it), Warhammer 40K/fantasy.
 
-My long-term goal is to create a fantasy game with a powerful, tear-jerking story and memorable characters. I want players to feel as though they've formed genuine friendships with the characters they meet throughout their journey. Ultimately, I hope to create a game that leaves a lasting emotional impact on the people who play it.
+My long-term goal is to create a fantasy game with a powerful, tear-jerking story and memorable characters. I want players to feel as though they've formed genuine friendships with the characters they meet throughout their journey. Ultimately, I hope to create a game that leaves a lasting emotional impact on the people who play it.  
+  
+### Riley Clarke
+
+Hi! My name is Riley, and I'm a Game Development – Programming student at RRC Polytech. I've been programming games in Unity with C# for just over five years, contributing to both 2D and 3D projects. I have a passion for programming, game design, and creating memorable and impactful experiences.
+
+Outside of game development, I enjoy rock climbing, music of many genres, JDM cars, and, of course, playing video games!
+
+My long-term goal is to establish my own game development studio, where I can create games that others will love and enjoy while providing employment opportunities for other passionate creatives.
+
+
