@@ -151,6 +151,7 @@ GitHub provides features such as pull requests, code reviews, and remote reposit
 - [Perforce - Helix Core](https://www.perforce.com/products/helix-core)
 
 ## Team Member Biographies
+
 <!--
 Each team member must add their own short paragraph biography
 to this section through a separate feature branch and pull request.
@@ -174,6 +175,16 @@ Hi! My name is Riley, and I'm a Game Development – Programming student at RRC 
 
 Outside of game development, I enjoy rock climbing, music of many genres, JDM cars, and, of course, playing video games!
 
-My long-term goal is to establish my own game development studio, where I can create games that others will love and enjoy while providing employment opportunities for other passionate creatives.
+My long-term goal is to establish my own game development studio, where I can create games that others will love and enjoy while providing employment opportunities for other passionate creatives.  
+  
 
+###Gus Klaverkamp
 
+Hello, my name is Gus. I am a Programming and Game Design student at RRC Polytech. I have been programming and making games since just before high school and I learned how to use unity in Sisler Create. I enjoy the prospect of creating interesting games and the possibility of telling interesting and engaging stories within those games. 
+
+Outside of game development, I am currently in the middle of writing a graphic novel that has been in the worlds for 10+ years called Guardian. I also like to draw and am versed in character design and concept art. 
+
+My long term goal is to publish said book and share my stories with the world. 
+
+That and maybe taking over the tri-state area I guess.  
+  
