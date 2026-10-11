@@ -9,6 +9,11 @@ layout: default
 
 Before you can start working with Git, you have to make sure it is fully set up and configured.
 
+## Table of Contents
+{: .no_toc}
+1. TOC
+{:toc}
+
 ## Install
 
 First thing you will want to do is [install Git ands Git GUI] (https://gitforwindows.org/)

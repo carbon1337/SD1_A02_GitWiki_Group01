@@ -9,6 +9,12 @@ layout: default
 
 This page will go over how to create a repository through Windows Terminal/GitBash
 
+## Table of Contents
+{: .no_toc}
+1. TOC
+{:toc}
+
+
 ## Initialization
 
 To bring a new project under control we must first initialize the repository (the repo)

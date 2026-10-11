@@ -9,6 +9,12 @@ layout: default
 
 In order to upload files and changes to files to a remote repository, they must first be staged and then commited.
 
+## Table of Contents
+{: .no_toc}
+1. TOC
+{:toc}
+
+
 
 ## Staging
 
