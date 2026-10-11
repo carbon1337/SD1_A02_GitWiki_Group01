@@ -1,7 +1,7 @@
 ---
 title: Repository Initialization
 parent: Git Fundamentals
-nav_order: 1
+nav_order: 2
 layout: default
 ---
 

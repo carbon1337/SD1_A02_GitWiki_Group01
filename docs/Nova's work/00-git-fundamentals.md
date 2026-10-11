@@ -13,9 +13,9 @@ This section will introduce you to the fundamentals of Git and how to use it.
 
 {: .no_toc }
 
-1. Configuring Git
-2. Initializing a Repo 
-3. Staging and Commit Files 
+[1. Configuring Git] (docs\Nova's work\01-configuring-git.md)
+[2. Initializing a Repo]  (docs\Nova's work\02-repo-initialization.md)
+[3. Staging and Commit Files] (docs\Nova's work\03-staging-and-commiting.md)
 4. Status, Log, and Diff 
 4. Using a Git Ignore File 
 
