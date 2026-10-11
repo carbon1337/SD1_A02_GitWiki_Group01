@@ -189,7 +189,7 @@ Outside of game development, I'm passionate about soccer (or football, if you're
 My long-term goal is to create a fantasy game with a powerful, tear-jerking story and memorable characters. I want players to feel as though they've formed genuine friendships with the characters they meet throughout their journey. Ultimately, I hope to create a game that leaves a lasting emotional impact on the people who play it.  
   
 
-###Gus Klaverkamp
+### Gus Klaverkamp
 
 Hello, my name is Gus. I am a Programming and Game Design student at RRC Polytech. I have been programming and making games since just before high school and I learned how to use unity in Sisler Create. I enjoy the prospect of creating interesting games and the possibility of telling interesting and engaging stories within those games. 
 
