@@ -19,12 +19,7 @@ All Done :)
 All done :)  
   
 ### Alex
-- Undoing in Git with: 
-  - Checkout 
-  - Reset 
-  - Revert 
-  - Clean 
-  - When to use the different strategies.
+All Done :)  
   
 ### Traigen 
 All done :)  
@@ -50,7 +45,13 @@ All done :)
   - Forking workflow  
   
 ### Alex  
-
+- Undoing in Git with: 
+  - Checkout 
+  - Reset 
+  - Revert 
+  - Clean 
+  - When to use the different strategies.
+    
 ### Traigen
 - Remote Repositories
 - Pushing and Pulling 
