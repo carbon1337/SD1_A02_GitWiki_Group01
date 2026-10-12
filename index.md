@@ -198,4 +198,13 @@ Outside of game development, I am currently in the middle of writing a graphic n
 My long term goal is to publish said book and share my stories with the world. 
 
 That and maybe taking over the tri-state area I guess.  
+
+### Nova Acosta
+
+Greetings, my name is Nova Acosta. I go by she/her. I am part of the Game Design - Programming course at RRC. I've always loved video games and codind. I took 3 years of Computer Science in high school and attended Sisler CREATE for game design for 1 year.
+
+Due to my time at Sisler CREATE, I have become pretty familiar with Unity and C#. I have made a couple of small games both solo and in groups and one big game over the span of around 10 months.
+
+As for my interests outside of game development, I of course love video games. Big fan of ULTRAKILL, rhythm games, fighting games, puzzle games, a lot of stuff. I also really like music, specifically FLAVOR FOLEY and Ado. If you see me with headphones on,
+I'm probably listening to one of those two. 
   
