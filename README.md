@@ -8,12 +8,7 @@
 All Done :)  
   
 ### Nova 
-- Git Fundamentals
-  - Configuring Git 
-  - Initializing a Repo 
-  - Staging and Commit Files 
-  - Status, Log, and Diff 
-  - Using a Git Ignore File 
+All Done :)
   
 ### Gus 
 All done :)  
@@ -34,7 +29,13 @@ All done :)
 - Resolving Merge Conflict  
     
 ### Nova  
-  
+- Git Fundamentals
+- Configuring Git 
+- Initializing a Repo 
+- Staging and Commit Files 
+- Status, Log, and Diff 
+- Using a Git Ignore File
+    
 ### Gus
 - Creating, Using, and Merging Branches
 - Stashing
